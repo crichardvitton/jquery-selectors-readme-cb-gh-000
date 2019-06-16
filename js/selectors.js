@@ -6,3 +6,15 @@ function paragraphSelector  {
 function lastImageSelector {
   return $(":last");
 }
+
+function ninjaBabySelector {
+  return $("#baby-ninja");
+}
+
+function divSelector {
+  return $(".pics");
+}
+
+function firstListItem {
+  return $("#pic-list:first-child")
+}
